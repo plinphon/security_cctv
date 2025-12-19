@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Output files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.json
+
+# YOLO / ML models
+*.pt
+*.weights
+*.onnx
+*.log
+
+# Misc
+*.zip
+*.tar.gz
+*.egg-info/
